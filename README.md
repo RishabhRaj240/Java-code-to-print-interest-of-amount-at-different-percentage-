@@ -1,0 +1,1 @@
+# Java-code-to-print-interest-of-amount-at-different-percentage-
